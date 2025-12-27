@@ -1,3 +1,6 @@
+#worknotes
+#2025-12-27 --- Potato rig setup and ready to run
+
 #libs
 import tkinter as tk
 from tkinter import filedialog, messagebox
